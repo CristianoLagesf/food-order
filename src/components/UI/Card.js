@@ -1,4 +1,4 @@
-import classes from './Cart.module.css'
+import classes from './Card.module.css'
 
 const Card = props => {
     return (
