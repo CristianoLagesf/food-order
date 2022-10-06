@@ -1,6 +1,10 @@
 # Project Title
 Food Order .
 
+<div align="center"> 
+  <img src="https://j.gifs.com/nRj3zl.gif" alt="screenshot" />
+</div>
+
 ## Description
 
 It is a Study project from  React - The Complete Guide course.
